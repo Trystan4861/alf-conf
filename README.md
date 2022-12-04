@@ -1,6 +1,6 @@
-My Alf Conf
+My Alf Config file
 ==================================================
 
-This is my personal [alf][1] config.
+This is my personal [alf][1] config with some aliases
 
-[1]: https://github.com/DannyBen/alf
+Forked from [1]: https://github.com/DannyBen/
